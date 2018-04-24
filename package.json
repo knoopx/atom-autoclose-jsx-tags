@@ -1,0 +1,14 @@
+{
+  "name": "autoclose-jsx-tags",
+  "main": "./lib/autoclose-jsx-tags",
+  "version": "0.1.0",
+  "description": "Auto-close JSX tags",
+  "author": "Víctor Martínez",
+  "keywords": [],
+  "repository": "https://github.com/knoopx/atom-autoclose-jsx-tags",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
